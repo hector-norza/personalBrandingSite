@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your Name - Blog</title>
+    <description>Thoughts, tutorials, and insights about web development, technology, and best practices</description>
+    <link>https://yourusername.github.io/personalBrandingSite</link>
+    <atom:link href="https://yourusername.github.io/personalBrandingSite/rss.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 GMT</lastBuildDate>
+    
+    <item>
+      <title>Building Scalable React Applications with Next.js 14</title>
+      <description>Learn how to leverage the latest features in Next.js 14 to build performant and scalable React applications.</description>
+      <link>https://yourusername.github.io/personalBrandingSite/blog/building-scalable-react-applications-nextjs-14</link>
+      <guid>https://yourusername.github.io/personalBrandingSite/blog/building-scalable-react-applications-nextjs-14</guid>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>The Future of Web Development: Trends to Watch in 2024</title>
+      <description>Explore the emerging trends and technologies that will shape web development in 2024 and beyond.</description>
+      <link>https://yourusername.github.io/personalBrandingSite/blog/future-web-development-trends-2024</link>
+      <guid>https://yourusername.github.io/personalBrandingSite/blog/future-web-development-trends-2024</guid>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
